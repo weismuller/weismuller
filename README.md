@@ -1,0 +1,95 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/weismuller/weismuller/blob/62d2130287cacde94a872b098592e7b361929ffc/ChatGPT%20Image%205%20de%20mai.%20de%202026%2C%2021_43_10.png" width="100%" />
+</p>
+
+<h1 align="center">🚀 Bem-vindos ao meu universo de dados </h1>
+
+---
+
+## 🚀 Sobre mim
+
+Sou Analista de Dados com foco em transformar números em insights claros, acionáveis e que apoiam a tomada de decisão. Possuo perfil analítico e experiência nas áreas administrativa, financeira e logística, com atuação em análise de indicadores, organização de processos e apoio à eficiência operacional.
+
+Ao longo da minha trajetória, desenvolvi uma base sólida em análise de dados, estruturação de informações e leitura de indicadores de desempenho, sempre com foco em gerar valor através de informações bem organizadas e interpretadas.
+
+Tenho facilidade em conectar dados com contexto de negócio, contribuindo para decisões mais estratégicas e eficientes.
+
+
+---
+
+## 🧠 Minhas Especialidades
+
+
+- <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="20"> **SQL:** consultas, joins, agregações, análise de dados  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"> **Python:** Pandas, análise exploratória (EDA), automação  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="20"> **Power BI:** dashboards, DAX, Power Query, visualização de dados  
+- <img src="https://images.seeklogo.com/logo-png/37/1/microsoft-excel-logo-png_seeklogo-370278.png" height="20"> **Excel Avançado:** tabelas dinâmicas, fórmulas, análise de dados  
+- <img src="https://cdn-icons-png.flaticon.com/512/6011/6011070.png" height="20"> **ETL/ELT:** extração, transformação e carga de dados  
+- <img src="https://cdn-icons-png.flaticon.com/512/3208/3208750.png" height="20"> **Modelagem de Dados:** relacional e dimensional  
+- <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="20"> **Banco de Dados:** MySQL, SQL Server, Oracle  
+- <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" height="20"> **Cloud:** AWS, Azure, GCP (fundamentos)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"> **Versionamento:** Git e GitHub  
+
+
+---
+
+## 🛠️ Tecnologias que domino
+
+<div align="center">
+
+| SQL | Python | Power BI | Excel |
+|-----|--------|----------|-------|
+| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> | <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> | <img height="50" src="https://images.seeklogo.com/logo-png/37/1/microsoft-excel-logo-png_seeklogo-370278.png"/>
+
+</div>
+
+---
+
+## 🔗 Conecte-se comigo
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/weismuller/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40">
+      </a>
+    </td>
+    <td width="40"></td>
+    <td>
+      <a href="mailto:weismuller.santos@hotmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40">
+      </a>
+    </td>
+</table>
+
+
+---
+
+## 🧩 Projetos em Destaque
+
+
+### 🟦 ETL de Clientes com Python
+> Projeto simples de ETL desenvolvido em Python para demonstrar, de forma prática, as etapas de Extract, Transform e Load utilizando um arquivo CSV local.  
+👉 [Acesse o repositório](https://github.com/weismuller/ETL_clientes)
+
+
+
+### 🟨 Projetos desenvolvidos em Power BI
+> Aqui você encontrará dashboards, análises e relatórios desenvolvidos com foco em negócios e boas práticas de visualização.  
+👉 [Acesse o repositório](https://github.com/weismuller/Power-BI)
+
+
+
+---
+
+
+## 🧬 Missão
+
+Transformar dados em decisões inteligentes, acessíveis e estratégicas — sempre com clareza, precisão e impacto.
+
+---
+
+<p align="center">
+  Feito por <b>Weismuller Silva Santos</b>
+</p>
