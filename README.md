@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👤 Sobre mim
 
 Sou Analista de Dados com foco em transformar números em insights claros, acionáveis e que apoiam a tomada de decisão. Possuo perfil analítico e experiência nas áreas administrativa, financeira e logística, com atuação em análise de indicadores, organização de processos e apoio à eficiência operacional.
 
@@ -25,10 +25,10 @@ Tenho facilidade em conectar dados com contexto de negócio, contribuindo para d
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"> **Python:** Pandas, análise exploratória (EDA), automação  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="20"> **Power BI:** dashboards, DAX, Power Query, visualização de dados  
 - <img src="https://images.seeklogo.com/logo-png/37/1/microsoft-excel-logo-png_seeklogo-370278.png" height="20"> **Excel Avançado:** tabelas dinâmicas, fórmulas, análise de dados  
-- <img src="https://cdn-icons-png.flaticon.com/512/6011/6011070.png" height="20"> **ETL/ELT:** extração, transformação e carga de dados  
+- <img src="https://cdn-icons-png.flaticon.com/512/9698/9698964.png" height="20"> **ETL/ELT:** extração, transformação e carga de dados  
 - <img src="https://cdn-icons-png.flaticon.com/512/3208/3208750.png" height="20"> **Modelagem de Dados:** relacional e dimensional  
-- <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="20"> **Banco de Dados:** MySQL, SQL Server, Oracle  
-- <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" height="20"> **Cloud:** AWS, Azure, GCP (fundamentos)  
+- <img src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" height="20"> **Banco de Dados:** MySQL, SQL Server, Oracle  
+- <img src="https://images.icon-icons.com/4858/PNG_WM/256/282676_cloud-computing-icon.png" height="20"> **Cloud:** AWS, Azure, GCP (fundamentos)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"> **Versionamento:** Git e GitHub  
 
 
@@ -40,7 +40,7 @@ Tenho facilidade em conectar dados com contexto de negócio, contribuindo para d
 
 | SQL | Python | Power BI | Excel |
 |-----|--------|----------|-------|
-| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> | <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> | <img height="50" src="https://images.seeklogo.com/logo-png/37/1/microsoft-excel-logo-png_seeklogo-370278.png"/>
+| <img height="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/> | <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> | <img height="50" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000"/>
 
 </div>
 
@@ -55,7 +55,6 @@ Tenho facilidade em conectar dados com contexto de negócio, contribuindo para d
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40">
       </a>
     </td>
-    <td width="40"></td>
     <td>
       <a href="mailto:weismuller.santos@hotmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40">
