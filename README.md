@@ -68,6 +68,12 @@ Tenho facilidade em conectar dados com contexto de negócio, contribuindo para d
 ## 🧩 Projetos em Destaque
 
 
+### 🟧  Sinistros 2025 PRF 
+> Projeto de análise de dados sobre acidentes rodoviários registrados pela PRF em 2025. Utiliza SQL, PostgreSQL, R e Power BI para explorar padrões temporais, geográficos e de gravidade dos sinistros..  
+👉 [Acesse o repositório](https://github.com/weismuller/prf_sinistros_2025)
+>
+> 
+
 ### 🟦 ETL de Clientes com Python
 > Projeto simples de ETL desenvolvido em Python para demonstrar, de forma prática, as etapas de Extract, Transform e Load utilizando um arquivo CSV local.  
 👉 [Acesse o repositório](https://github.com/weismuller/ETL_clientes)
