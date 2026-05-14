@@ -67,6 +67,11 @@ Tenho facilidade em conectar dados com contexto de negócio, contribuindo para d
 
 ## 🧩 Projetos em Destaque
 
+### ⬛  Performance de Vendas 
+> Projeto de análise comercial simulando um cenário real de vendas. Utiliza SQL, PostgreSQL e Power BI para explorar receita, ticket médio, canais de venda, produtos mais vendidos e categorias de maior impacto..  
+👉 [Acesse o repositório](https://github.com/weismuller/performance_venda)
+>
+> 
 
 ### 🟧  Sinistros 2025 PRF 
 > Projeto de análise de dados sobre acidentes rodoviários registrados pela PRF em 2025. Utiliza SQL, PostgreSQL, R e Power BI para explorar padrões temporais, geográficos e de gravidade dos sinistros..  
